@@ -73,11 +73,11 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/your-github-username/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/Hytyannn2/NADI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hytyannn2&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/your-github-username/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/AceTerus/AceTerusWebpage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hytyannn2&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </p>
 
